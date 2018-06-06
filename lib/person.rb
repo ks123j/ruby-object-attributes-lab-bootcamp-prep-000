@@ -12,7 +12,7 @@ class Person
   end
 
   def jobs
-    @job
+    @jobs
   end
 
 end
