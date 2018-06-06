@@ -3,8 +3,8 @@ class Person
     @name = new_name
   end
 
-  def name
-    @name = name
+  def names
+    @names = name
   end
 
   def job=
